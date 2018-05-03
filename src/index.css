@@ -186,3 +186,7 @@ body, .app {
   cursor: pointer;
   outline: none;
 }
+
+.list-contacts-top{
+  height: .5rem;
+}
